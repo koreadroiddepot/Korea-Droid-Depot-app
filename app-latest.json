@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.example.c25_controller",
+  "version": "1.2.4",
+  "version_code": 9,
+  "apk_url": "https://github.com/koreadroiddepot/Korea-Droid-Depot-app/releases/download/v1.2.4/Korea-Droid-Depot-1.2.4.apk",
+  "sha256": "407323db6e98a66c01ac7b2bb0c9b44e237d12641813544fe14f16c4e0d88348",
+  "size_bytes": 54751559,
+  "min_sdk": 24,
+  "notes": "내 기기 목록에서 C25 작동·해제·음량 조절과 배터리 확인을 할 수 있습니다.\n기기 연결 후 목록을 유지하고, 별도 설정 화면에서 Wi-Fi·이름·펌웨어를 관리합니다.\n시작 화면에 제품을 추가·제거하고 선택한 제품만 표시합니다.\n앱 안에서 업데이트 확인·다운로드·설치 안내를 제공합니다."
+}
