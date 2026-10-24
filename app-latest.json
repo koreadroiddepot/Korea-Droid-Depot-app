@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.example.c25_controller",
-  "version": "1.2.5",
-  "version_code": 10,
-  "apk_url": "https://github.com/koreadroiddepot/Korea-Droid-Depot-app/releases/download/v1.2.5/Korea-Droid-Depot-1.2.5.apk",
-  "sha256": "498e00973af0ea3d526c42f31fa7bd721216e4433aa14e4e315b6fd82a770cfc",
-  "size_bytes": 54980967,
+  "version": "1.2.6",
+  "version_code": 11,
+  "apk_url": "https://github.com/koreadroiddepot/Korea-Droid-Depot-app/releases/download/v1.2.6/Korea-Droid-Depot-1.2.6.apk",
+  "sha256": "c0bd5e3e2e2512e5f0432d7f4e766b0a9c21a1aba426f88ebcd39ea7ec0fde75",
+  "size_bytes": 56472255,
   "min_sdk": 24,
-  "notes": "내 기기의 기기를 길게 눌러 끌어 순서를 변경하고 저장할 수 있습니다.\n내 기기 찾기 버튼으로 최대 음량 알림음을 재생합니다. 다시 누르거나 최대 10초 후 멈춥니다.\n찾기 기능은 C25 펌웨어 0.11.7 이상과 블루투스 연결이 필요합니다.\n평소 음량 설정을 유지하며 찾기 중 다른 기기 작업이 겹치지 않도록 처리합니다."
+  "notes": "Choose English, Korean or Japanese in App settings > Language.\nEnglish is the default. Your selection is saved and applied immediately.\nDevice names, Wi-Fi names, logs and release notes keep their original text.\nNo C25 firmware update is required."
 }
