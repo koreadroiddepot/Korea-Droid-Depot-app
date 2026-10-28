@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.example.c25_controller",
-  "version": "1.2.6",
-  "version_code": 11,
-  "apk_url": "https://github.com/koreadroiddepot/Korea-Droid-Depot-app/releases/download/v1.2.6/Korea-Droid-Depot-1.2.6.apk",
-  "sha256": "c0bd5e3e2e2512e5f0432d7f4e766b0a9c21a1aba426f88ebcd39ea7ec0fde75",
-  "size_bytes": 56472255,
+  "version": "1.2.7",
+  "version_code": 12,
+  "apk_url": "https://github.com/koreadroiddepot/Korea-Droid-Depot-app/releases/download/v1.2.7/Korea-Droid-Depot-1.2.7.apk",
+  "sha256": "8eb4b90b9a185c7c35d30cd3128edf8ff95b251cf49073014ae05ca3b1329359",
+  "size_bytes": 58070197,
   "min_sdk": 24,
-  "notes": "Choose English, Korean or Japanese in App settings > Language.\nEnglish is the default. Your selection is saved and applied immediately.\nDevice names, Wi-Fi names, logs and release notes keep their original text.\nNo C25 firmware update is required."
+  "notes": "Updated with the new KDD logo and charcoal, ivory and amber theme.\nNew app icon and startup screen; refreshed home, controls and settings.\nYour registered devices, Wi-Fi profiles and language selection are preserved.\nNo C25 firmware update is required."
 }
