@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.example.c25_controller",
-  "version": "1.2.8",
-  "version_code": 13,
-  "apk_url": "https://github.com/koreadroiddepot/Korea-Droid-Depot-app/releases/download/v1.2.8/Korea-Droid-Depot-1.2.8.apk",
-  "sha256": "2f0f00e4bb409a16b635832bedb27c8f5f90adf50f4f1194f98cdc5cbce04d46",
-  "size_bytes": 58201497,
+  "version": "1.2.9",
+  "version_code": 14,
+  "apk_url": "https://github.com/koreadroiddepot/Korea-Droid-Depot-app/releases/download/v1.2.9/Korea-Droid-Depot-1.2.9.apk",
+  "sha256": "31efc0856ad763560d8303770ab72df46e60d52d2a2c557c8b6c84c95d4a5ec7",
+  "size_bytes": 58348953,
   "min_sdk": 24,
-  "notes": "Update C25 sound packs from the device settings. Requires firmware 0.11.8 or later.\nReconnect and reinstall the sound pack to recover an interrupted audio update.\nThe original effects, KDD theme, registered devices and language selection are preserved."
+  "notes": "Choose KDD Original or Mandalorian from each C25 device settings.\nMandalorian uses a 7.92-second engage sound with synchronized flashing LEDs.\nInstall firmware 0.11.9 or later, then sound pack 1.1.0, to enable this option.\nSelections are saved on each device. Existing devices, settings and language are preserved."
 }
