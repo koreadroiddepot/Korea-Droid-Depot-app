@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.example.c25_controller",
-  "version": "1.2.7",
-  "version_code": 12,
-  "apk_url": "https://github.com/koreadroiddepot/Korea-Droid-Depot-app/releases/download/v1.2.7/Korea-Droid-Depot-1.2.7.apk",
-  "sha256": "8eb4b90b9a185c7c35d30cd3128edf8ff95b251cf49073014ae05ca3b1329359",
-  "size_bytes": 58070197,
+  "version": "1.2.8",
+  "version_code": 13,
+  "apk_url": "https://github.com/koreadroiddepot/Korea-Droid-Depot-app/releases/download/v1.2.8/Korea-Droid-Depot-1.2.8.apk",
+  "sha256": "2f0f00e4bb409a16b635832bedb27c8f5f90adf50f4f1194f98cdc5cbce04d46",
+  "size_bytes": 58201497,
   "min_sdk": 24,
-  "notes": "Updated with the new KDD logo and charcoal, ivory and amber theme.\nNew app icon and startup screen; refreshed home, controls and settings.\nYour registered devices, Wi-Fi profiles and language selection are preserved.\nNo C25 firmware update is required."
+  "notes": "Update C25 sound packs from the device settings. Requires firmware 0.11.8 or later.\nReconnect and reinstall the sound pack to recover an interrupted audio update.\nThe original effects, KDD theme, registered devices and language selection are preserved."
 }
